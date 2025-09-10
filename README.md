@@ -72,21 +72,18 @@ A smart LLM-powered agent that enables natural language interactions with your C
    - Open your browser to `http://localhost:8501`
    - Backend API runs on `http://localhost:8000`
 
-## 🎯 Usage Examples
-
-### Business Intelligence
-- "What's our monthly recurring revenue trend?"
-- "Which sales regions are underperforming?"
-- "Show customer churn analysis by segment"
-
-### Data Science
-- "Plot correlation between price and sales volume"
-- "Identify outliers in the revenue data"
-- "Show distribution of customer purchase amounts"
 
 ### Quick Analytics
-- "Top 10 products by profit margin"
-- "Filter customers from New York with sales > $50K"
-- "Compare Q3 vs Q4 performance"
+- "Who are the top 10 customers by total sales?"
+- "What are the top 5 products by profit?"
+- "Plot sales trends over time by order date"
+- "Create a bar chart showing total sales by region"
+- "Show me a bar chart of revenue by product category"
+- "Plot profit margins by customer segment"
+- "Create a scatter plot of shipping cost versus sales amount"
+
+### Screenshots
+![alt text](<Screenshot 2025-09-10 at 7.12.44 PM.png>)
+![alt text](<Screenshot 2025-09-10 at 7.41.10 PM.png>)
 
 **Built with Agno Framework, FastAPI, and Streamlit**
