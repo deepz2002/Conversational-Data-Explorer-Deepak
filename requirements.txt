@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+agno==1.5.10
+pandas
+plotly
+kaleido
+python-multipart
+python-dotenv
+openpyxl
+google-genai
+streamlit
+requests
+pillow
